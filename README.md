@@ -1,2 +1,2 @@
 # docs
-doc files collected
+自己感觉不错的一些文档，或者经典，或者必需
